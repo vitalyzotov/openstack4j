@@ -21,3 +21,4 @@ pom-shade.xml
 *.iml
 *.ipr
 *.iws
+setenv.bat
